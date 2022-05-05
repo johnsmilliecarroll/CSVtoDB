@@ -1,6 +1,6 @@
 A program that takes an input csv for a math competition and creates a database, which it then queries for statistical information on the competition results.
 
-###Requirements:
+### Requirements:
 
 Download dotenv and mysql connector.
 
