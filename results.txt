@@ -1,0 +1,1205 @@
+Average number of teams entered per institution: 8.6622
+
+Institutions who entered the most teams:
+
+BeiJing University Of Post And Telecommunication, 323
+Harbin Institute of Technology, 303
+Sun Yat-Sen University, 225
+Central South University, 202
+Dalian University of Technology, 187
+Beihang Univeristy, 174
+University of International Business and Economics, 167
+Central University of Finance and Ecomomics, 152
+Zhejiang University, 144
+Shanghai Jiao Tong University, 141
+Nankai University, 126
+Peking University, 126
+North China Electric Power University, 124
+South China Normal University, 121
+Wuhan University, 118
+North China Electric Power University Baoding, 103
+HARBIN ENGINEERING UNIVERSITY, 101
+Dalian Maritime University, 100
+Tongji University, 91
+Capital University of Economics and Business, 91
+Beijing Institute of Technology, 90
+Chongqing University, 85
+Jilin University, 85
+Tsinghua University, 84
+China University of Petroleum, 84
+Beijing Normal University, 81
+Shandong University, 81
+Southwestern University of Finance and Economics, 76
+Southeast University, 73
+Shanghai University, 70
+National University of Defense Technology, 68
+Renmin University of China, 66
+Shandong University of Science and Technology, 64
+South China University of Technology, 64
+Beijing Normal University, Zhuhai, 61
+Shanghai University of Finance and Economics, 60
+East China Normal University, 60
+Shenyang Jianzhu University, 59
+Northwest University, 57
+Sichuan University, 56
+Nanjing University, 54
+China Agricultural University, 54
+XIDIAN UNIVERSITY, 51
+Anhui University of Finance and Economics, 49
+University of Science and Technology of China, 48
+Minzu University of China, 48
+University of Electronic Science and Technology of China, 48
+Chongqing University of Posts and Telecommunications, 48
+Southwest Jiaotong University, 46
+Henan Polytechnic University, 45
+China University of Petroleum, Beijing, 44
+Sun Yat-sen University, 41
+Southwest University, 41
+Northwestern Polytechnical University, 40
+Fudan University, 40
+Tianjin University, 40
+Hunan University, 39
+Huazhong University of Science and Technology, 38
+Shandong University(Weihai), 38
+Dalian Nationalities University, 38
+Shandong University of Technology, 38
+Xiamen University, 36
+Xiangtan University, 36
+Zhongnan University of Economics and Law, 35
+Xi'an University of Architecture and Technology, 34
+Beijing Jiaotong University, 34
+Xi'an Jiaotong University, 34
+Air Force Engineering University, 34
+Henan Normal University, 32
+Tianjin Polytechnic University, 32
+National University of defense technology, 32
+Zhengzhou University, 31
+Nanjing University of Science and Technology, 31
+Northeast Agricultural University, 31
+Chongqing Jiaotong University, 30
+Nanchang University, 30
+Inner Mongolia University, 29
+Yunnan University, 28
+Wuhan University of Technology, 27
+Fuzhou University, 27
+Huazhong Agricultural University, 25
+Guangdong University of Technology, 25
+Zhejiang Gongshang University, 25
+Simpson College, 25
+Ocean University of China, 24
+Xi'an Jiaotong-Liverpool University, 24
+Lanzhou University, 24
+East China University of Science and Technology, 23
+Hainan University, 23
+Sichuan Agricultural University, 23
+Beijing Forestry University, 23
+Shenzhen Polytechnic, 23
+Guangxi University, 23
+University of Michigan-Shanghai Jiao Tong University Joint Institute, 22
+North University of China, 22
+The Second Artillery Engineering University, 21
+Beijing University of Post and Telecommunication, 21
+Jinan University, 21
+China University of Mining and Technology, 21
+SOUTHWEST UNIVERSITY FOR NATIONALITIES, 21
+Nanjing University of Posts and Telecommunications, 20
+China Jiliang University, 20
+Hebei United University, 20
+College of Sciences ; Northeastern University, 20
+Hangzhou Normal University, 19
+Chengdu University of Technology, 19
+Guangdong University of Finance and Economics, 19
+College of Information Science and Engineering; Northeastern University, 19
+Academy of Armored Forces Engineering, 19
+Shanxi University, 18
+Beijing Technology and Business University, 18
+Tianjin University, China, 18
+Chang'an University, 18
+Fujian Normal University, 18
+Shanghai Normal University, 18
+Hangzhou Dianzi University, 17
+PLA University of Science and Technology, 17
+Yantai University, 16
+Jinan University Zhuhai Campus, 16
+Harbin University of Science and Technology, 16
+Donghua University, 15
+Nanjing University of Information Science & Technology, 15
+Hohai University, 15
+Shanghai Jiaotong University, 15
+China University of Political science and Law, 15
+Nantong University, 15
+Anhui University, 15
+Northeastern University at Qinhuangdao, 15
+Information Engineering University, 15
+Dongbei University of Finance and Economics, 14
+Civil Aviation University of China, 14
+University of South China, 14
+Southwest University of Science and Technology, 14
+Henan University, 14
+Ludong University, 14
+Zhejiang University of Technology, 14
+Northeast Forestry University, 14
+Soochow university, 14
+Dezhou University, 14
+School of Mathematical Sciences,Nanjing Normal University, 14
+South China Agricultural University, 13
+Beijing University of Technology, 13
+Harbin University of Commerce, 13
+Henan University of Science and Technology, 13
+Xi'an University of Finance and Economics, 13
+Shaanxi University of Technology, 13
+Shanghai University of International Business and Economics, 13
+Guangdong University of Finance & Economics, 13
+Shanghai Foreign Language School, 13
+Shanghai Maritime University, 13
+Chongqing University of Technology, 13
+Shenyang jianzhu University, 12
+Neijiang Normal University, 12
+Shanghai Finance University, 12
+Huizhou University, 12
+Hefei University of Technology, 12
+Taiyuan University of Technology, 12
+Northeastern University, 12
+Hebei Finance University, 12
+North China University of Water Resources and Electric Power, 12
+Naval University of Engineering, 12
+Beijing Institute of Technology, Zhuhai, 12
+shenyang jianzhu university, 11
+Beijing University of Aeronautics and Astronautics, 11
+Yunnan Normal University, 11
+University of Shanghai for Science and Technology, 11
+Cheng Yi College of Jimei University, 11
+Chongqing Technology and Business University, 11
+Shanghai Jiading No.1 High School, 11
+Nanjing Tech University, 11
+Hebei University, 11
+Xi'an University of Technology, 11
+Zhengzhou Information Engineering University, 11
+Software College; Northeastern University, 11
+University of Science and Technology Beijing, 10
+Central China Normal University, 10
+Zhejiang Normal University, 10
+Hohai University Changzhou Campus, 10
+Nanjing University of Posts & Telecommunications, 10
+Zhejiang University City College, 10
+Ningbo Institute of Technology, Zhejiang University, 10
+Shenyang University of Technology, 10
+Department of Mathematics; Northeastern University, 10
+Fujian University of Technology, 10
+Jiangnan University, 10
+ShanDong University, 9
+China University of Geosciences, 9
+Tsinghua Univeristy, 9
+Hebei University of Technology, 9
+Shenyang Ligong University, 9
+nanjing university of finance&economics, 9
+Zhejiang Sci-Tech University, 9
+Guangzhou University, 9
+Shenzhen University, 9
+Guilin University of Electronic Technology, 9
+HuBei University of Economics, 9
+Shantou University, 9
+Hubei University of Technology, 9
+Inner Mongolia University of Finance and Economics, 9
+Carroll College, 9
+BNU-HKBU United International College, 8
+South-Central University for Nationalities, 8
+Nanjing University of Information Science and Technology, 8
+Heilongjiang University, 8
+South University of Science and Technology of China, 8
+Ningbo University, 8
+Informantion Engineering, 8
+University of International Relations, 8
+Institute of Artificial Intelligence and Robotics; Northeastern University, 8
+Southwest Petroleum University, 8
+Army Officer Academy, 8
+Qingdao Agricultural University, 8
+Guangdong University of Foreign Studies, 7
+University of Colorado Boulder, 7
+China University of Geosciences (Wuhan), 7
+ShanDong University of Science and Technology, 7
+Naval Aeronautical and Astronautical University, 7
+NC School of Science and Mathematics, 7
+Shandong University of Finance and Economics, 7
+Qingdao University, 7
+Nanjing University of Posts&Telecommunications, 7
+Jacksonville University, 7
+Harvey Mudd College, 7
+Virginia Tech, 7
+Youngstown State University, 7
+Beijing University of Chemical Technology, 7
+Davidson College, 7
+Dalian Institute of Science and Technology, 6
+UIBE, 6
+BeijingÂ UniversityÂ ofÂ Post and Telecommunication, 6
+Anqing Normal University, 6
+Qinghai University, 6
+Tianjin University of Finance and Economics, 6
+Nanjing Tech Uinversity, 6
+Shanghai Institute of Technology, 6
+Nanjing University of Aeronautics and Astronautics, 6
+Anhui Normal University, 6
+Binjiang College of Nanjing University of Information Science & Tecnology, 6
+Inner Mongolia University For The Nationlities, 6
+Westminster College, 6
+University of Washington, 6
+Beijing Union University, 6
+Guangdong University of Finance Economics, 6
+Binzhou University, 6
+Chongqing University of Science and Technology, 6
+Chongqing University of Science & Technology, 6
+China University of Mining and Technology-Beijing, 6
+UC Berkeley, 6
+Yichun University, 6
+Beijing Wuzi University, 6
+Shandong Institute of Business and Technology, 5
+Shenyang Normal University, 5
+Henan normal university, 5
+College of Petroleum Engineering, 5
+Changsha University, 5
+Wuhan University of Science and Technology, 5
+Peking university, 5
+HaiNan University, 5
+Shanghai Experimental School, 5
+City University of Hong Kong, 5
+New York University, 5
+Qilu University Of Technology, 5
+Dalian Polytechnic University, 5
+Linfield College, 5
+EAST CHINA NORMAL UNIVERSITY, 5
+Liaoning Shihua University, 5
+Institut Teknologi Bandung, 5
+Shandong University of Science & Technology, 5
+College of Sciences, Northeastern University, 5
+Yancheng Teachers University, 5
+Guangdong Polytechnic Normal University, 5
+Gannan Normal University, 5
+Hangzhou Normal University Qianjiang College, 5
+University of Wisconsin-Madison, 5
+Wartburg College, 5
+Key Laboratory of Medical Image Computing; Northeastern University, 5
+Mount Holyoke College, 5
+Xuzhou Institute of Technology, 5
+Wenzhou University, 5
+Institution of Mathematics;Northeastern University, 5
+Huanggang Normal University, 5
+Qinggong College, Hebei United University, 5
+GuangDong Ocean University, 5
+Cal Poly Pomona, 5
+Soochow universuty, 5
+Soochow University, 5
+Albion College, 5
+Economics, 4
+East China University Of Science And Technology, 4
+Beijing National Day School, 4
+Xi'an University of Posts and Telecommunications, 4
+Undergraduate course, 4
+Shandong university, 4
+ZheJiang University, 4
+Beihua University, 4
+Heilongjiang University, China, 4
+China University of Petroleum (East China), 4
+University of Macau, 4
+Lanzhou University of Technology, 4
+University of California, Los Angeles, 4
+TianJin University, 4
+University of Manchester, 4
+Western Washington University, 4
+NanTong University, 4
+shaanxi university of technology, 4
+Dalian Jiaotong university, 4
+University of Science & Technology Beijing, 4
+Huaqiao University, 4
+University of Illinois, 4
+Taishan University,China, 4
+Hubei University of Economics, 4
+Hubei University Of Economics, 4
+China University of Geosciences(Beijing), 4
+JiangXi Normal University, 4
+Beijing Information Science & Technology University, 4
+Henan University of Urban Construction, 4
+Humboldt State University, 4
+GUANGDONG UNIVERSITY OF FINANCE AND ECONOMICS, 4
+Shenyang Institute of Technology, 4
+Zhejiang University of Finance and Economics, 4
+Institution of Intelligent Robots and Pattern Recognition; Northeastern University, 4
+Signal and information processing; Northeastern University, 4
+Huainan Normal University, 4
+Guangdong University of Petrochemical Technology, 4
+Jinling Institute of Technology, 4
+Northern Kentucky University, 4
+Shippensburg University, 4
+Nanjing Agricultural University, 4
+Qingdao University of Science and Technology, 4
+Seattle University, 4
+Sichuan Normal University Chengdu College, 4
+Mount St. Mary's University, 4
+Nanjing Forestry University, 4
+Zhejiang A&F University, 4
+Chengdu College of Univ. of Elec. Sci. and Tech. of China, 4
+Bucknell University, 4
+Xavier University, 4
+University of Kentucky, 4
+Slippery Rock University, 4
+Northwest University for Nationalities, 4
+Cornell University, 4
+Rensselaer Polytechnic Institute, 4
+Paivola School of Mathematics, 4
+Coe College, 4
+South China Normal University, Guangzhou, P.R. China, 3
+Tianjin University of Commerce, 3
+Southern Medical University, 3
+Columbia University, 3
+university of international business and economics, 3
+SHANGHAI JIAO TONG UNIVERSITY, 3
+Chengdu University of Information Technology, 3
+University of international business and economics, 3
+Shenyang Jianzhu university, 3
+Sichuan Normal University, 3
+Jilin University of Finance and Economics, 3
+Information Engineering, 3
+China Three Gorges University, 3
+SUNY New Paltz University, 3
+Liaoning University, 3
+China University of Political Science and Law, 3
+Century College of Beijing University of Posts and Telecommunications, 3
+Xijing University, 3
+Wake Forest University, 3
+Huazhong University of Science & Technology, 3
+Hexi Univercity, 3
+Beijing Language and Culture University, 3
+USMA, 3
+Bethel University, 3
+Pacific Lutheran University, 3
+Huzhou University, 3
+Madonna University, 3
+Nankai University,China, 3
+National University of Singapore, 3
+WuHan University, 3
+Shanxi Medical University, 3
+university, 3
+Dalian Neusoft University of Information, 3
+Leshan Normal University, 3
+WUHAN TEXTILE UNIVERSITY, 3
+Jiangsu Normal University, 3
+Henan University of Technology, 3
+Nanyang Normal University, 3
+North China Electric Power University Science & Technology College, 3
+Wuhan university, 3
+WUHAN UNIVERSITY, 3
+Franklin & Marshall College, 3
+Zhejiang University of Science and Technology, 3
+Jiangxi University of Traditional Chinese Medicine, 3
+Lawrence Technological University, 3
+University of California, San Diego, 3
+University of Science and Technology Liaoning, 3
+China University of Geosciences, Beijing, 3
+Sam Houston State University, 3
+concordia college NY, 3
+Trinity, 3
+Colorado College, 3
+West Anhui University, 3
+West Ahui University, 3
+GuangDong University of Finance and Economics, 3
+Naval Aeronautical Engineering Institute Qingdao Campus, 3
+Xinjiang University, 3
+Research Center of Control & Simulation; Northeastern University, 3
+Xinyang Normal University, 3
+Institute of Mechatronics Engineering; Northeastern University, 3
+School of Mechanical Engineering and Automation,Northeastern University, 3
+Pattern Recognition;Northeastern University, 3
+Materials and metallurgy; Northeastern University, 3
+Institute of Electrical Engineering and Automation; Northeastern University, 3
+Virtual reality and simulation;Northeastern University, 3
+Tianjin Agricultural University, 3
+Pattern Recognition ;Northeastern University, 3
+College of Science, 3
+Liaocheng University, 3
+The University of Shanghai for Science and Technology, 3
+Shijiazhuang University, 3
+Yunnan Minzu University, 3
+Institution of Maths ; Northeastern University, 3
+School of Sciences;Northeastern University, 3
+Hebei university, 3
+Ocean University Of China, 3
+Henan Institute of Science and Technology, 3
+University of Puget Sound, 3
+Seattle Pacific University, 3
+Duquesne University, 3
+Harbin University of Science and Technology Rongcheng, 3
+NANKAI UNIVERSITY, 3
+Indiana University Bloomington, 3
+University of Utah, 3
+Duke University, 3
+University of Minnesota Duluth, 3
+Shandong Jianzhu University, 3
+Shaanxi Electronic Technical College, 3
+Yanshan University, 3
+henan normal university, 3
+Air Force Logistics College, 3
+GuangDong Vocational College of Environmental Protetion Engineering, 3
+Jinshan College of Fujian Agriculture and Forestry University, 3
+Clarkson University, 3
+Appalachian State University, 3
+University of San Diego, 3
+Asbury University, 3
+University of Minnesota, 3
+Colby College, 3
+Ramapo College of New Jersey, 3
+Emory University, 3
+Xiamen University of Technology, 3
+The Stony Brook School, 3
+Winthrop University, 3
+Shanghai University of Electric Power, 2
+Huazhong Agriculture University, 2
+Idaho State University, 2
+SUN YAT-SEN UNIVERSITY, 2
+Shijiazhuang Tiedao University, 2
+School of Information, Renmin University of China, 2
+Panzhihua University, 2
+University of science and technology of China, 2
+East China Institute of Technology, 2
+Lanzhou university, 2
+FuYang Normal College, AnHui, China., 2
+Fuyang Normal College, Anhui province, China., 2
+Sacred Heart University, 2
+School of Reliability and Systems Engineering,Beihang University, 2
+University of International Business and Economy, 2
+Hefei No.8 high school, 2
+RENMIN UNIVERSITY of CHINA, 2
+UNIVERSITY OF SCIENCE AND TECHNOLOGY OF CHINA, 2
+College of Science, Northeastern University, China, 2
+University of Internetional Business and Economics, 2
+Hexi University, 2
+SouthWestern University of Finance and Economics, 2
+USTC, 2
+University of International Business and Economics, China, 2
+Yangtze University, 2
+Changchun University of Science and Technology, 2
+State University of New York, University at Buffalo, 2
+School of Mathematics, 2
+Kunming University of Science and Technology, 2
+University of International business and economics, 2
+The University of International Business and Economics, 2
+Shandong Normal University, 2
+Tianjin University of Science and Technology, 2
+Minzu university of China, 2
+Shanghai JiaoTong University, 2
+Sichuan Agriculture University, 2
+Tianjin Foreign Studies University, 2
+Southwestern University Of Finance And Economics, 2
+Shenyang University, 2
+South China Normal Univercity, 2
+Huangzhong University of Science and Technology, 2
+South China Institute of Software Engineering. GU, 2
+China University of Geosciences(Wuhan), 2
+professor, 2
+Hebei Normal University, 2
+Capital Medical University, 2
+Lan Zhou University of Technology, 2
+East China University of Political Science and Law, 2
+Shanghai university of finance and economics, 2
+Gansu Agricultural University, 2
+NORTH CHINA ELECTRIC POWER UNIVERSITY, 2
+College of Applied Science.Jiang Xi University of Science and Technology, 2
+Southwest JiaoTong University, 2
+P.R.China Beijing Normal University, 2
+South China University Of Technology, 2
+Wesleyan College, 2
+School of Architecture and Civil Engineering,Nantong University, 2
+Northwest A&F University, 2
+Shandong Jiaotong University, 2
+South Western University of Finance and Economics, 2
+QuFu Normal University, 2
+Shanghai Lixin University of Commerce, 2
+Jilin University., 2
+Virginia Western, 2
+east china university of political science and law, 2
+Anhui Jianzhu University, 2
+China Jiangsu University, 2
+RENMIN UNIVERSITY OF CHINA, 2
+Beijing University Of Technology, 2
+Dalian Ocean University, 2
+Washington and Lee University, 2
+Shaoguan University, 2
+The Engineering & Technical college of Chengdu University of Technology, 2
+Beijing normal university, 2
+Montana Tech, 2
+Second Military Medical University, 2
+Inner Mongolia University of Technology, 2
+Suzhou University of Science and Technology, 2
+China Welfare Institute, 2
+Northeast Petroleum University, 2
+College of Computer and Control Engineering, 2
+NanKai University, 2
+Hunan Normal University, 2
+Southwest jiaotong university, 2
+Guizhou University, 2
+Zhejiang University, China, 2
+JiangXi University of Science and Technology, 2
+The Engineering &technical College of Chengdu University of Technology, 2
+Hendrix College, 2
+Union College, 2
+Shihezi University, 2
+Zhejiang university, 2
+South-Central University For Nationalities, 2
+The Hong Kong Polytechnic University, 2
+James Madison University, 2
+Western Connecticut State University, 2
+Huaihai Institute of Technology, 2
+Xi'an Eurasia University, 2
+Zhejiang Chinese Medical University, 2
+Xidian University, 2
+Inner Mongolia University For The Nationalities, 2
+Shenzhen University, China, 2
+Hunan Police Academy, 2
+Austin Peay State University, 2
+Zhejiang Industry & Trade Vocational College, 2
+The University of Dallas, 2
+Pacific University, 2
+University of Cambridge, 2
+University of Colorado Denver, 2
+Indiana University of Pennsylvania, 2
+Clemson University, 2
+NORTH CHINA INSTITUTE OF SCIENCE AND TECHNOLOGY, 2
+Jiangxi University of Finance and Economics, 2
+SiChuan University, 2
+ZaoZhuang University, 2
+China University of Geosciences,Beijing, 2
+School of Materials and Metallurgy; Northeastern University, 2
+Institute of Metallurgical Resource and Environmental Engineering ; Northeastern University, 2
+Virtual reality and simulation; Northeastern University, 2
+College of Information Science & Engineering; Northeastern University, 2
+Institution of Metallurgy Resources and Environmental Engineering; Northeastern University, 2
+Institute of Computer System;Northeastern University, 2
+Truman State University, 2
+China University of Geosciences (Beijing), 2
+School of Mechanical Engineering and Automation, Northeastern University, 2
+Robotics and Automation; Northeastern University, 2
+Sino-Dutch Biomedical and Information Engineering School; Northeastern University, 2
+Institution of Pattern Recognition ;Northeastern University, 2
+Key Laboratory of Ecological Utilization of Multi-metal Intergrown Ores of Ministry of Education &School of Materials and Metall, 2
+Institution of Software; Northeastern University, 2
+Belhaven University, 2
+wuhan university, 2
+HuaQiao University, 2
+Huazhong University of Science and Technolog, 2
+College of Software; Northeastern University, 2
+Institute of Digital media technology; Northeastern University, 2
+Macau University of Science and Technology, 2
+Faculty of Information Science and Engineering; Northeastern University, 2
+Software college; Northeastern University, 2
+Northeastern University, China, 2
+School of Information Science and Engineering; Northeastern University, 2
+JiangXi College of Construction, 2
+Xuhai College of China University of Mining and Technology, 2
+Huazhong Agricultural University Chutian College, 2
+Sichuan university, 2
+shenyang university of technology, 2
+shenyang University of Technology, 2
+Institution of Mathematics; Northeastern University, 2
+College of Sciences, 2
+Institute of Systems Science; Northeastern University, 2
+Colgate University, 2
+Grinnell College, 2
+California Polytechnic State University, 2
+University of Adelaide, 2
+Shandong University of Science and Technologyï¼ŒChina, 2
+Chongqing University of Science &Technology, 2
+Nanjing College of Information Technology, 2
+ZhongKai University of Agriculture and Engineering, 2
+University of Wisconsin Milwaukee, 2
+Louisiana Tech University, 2
+Wells College, 2
+University of Ontario Institute of Technology, 2
+Roanoke College, 2
+Wentworth Institute of Technology, 2
+The College of Idaho, 2
+College of Wooster, 2
+Qingdao agricultural university, 2
+Huaibei Normal University, 2
+Henan normal University, 2
+Shenzhen Middle School, 2
+Universitat AutÃ²noma de Barcelona, 2
+University of Stirling, 2
+Nankai university, 2
+Virginia Military Institute, 2
+Saint Louis University, 2
+Illinois Institute of Technology, 2
+The University of Western Ontario, 2
+Mercer University, 2
+Rhodes College, 2
+Lafayette College, 2
+York University, 2
+University of Pittsburgh, 2
+Richard Stockton College of New Jersey, 2
+Universidad Autonoma de Yucatan, 2
+University of Central Florida, 2
+Kwangwoon University, 2
+Bard College, 2
+Oregon State University, 2
+North China Electric Power Univercity, 1
+Shandong University, Shandong, China, 1
+High School Affiliated to People's University (RDFZ), 1
+SHANGHAI UNIVERSITY OF FINANCE AND ECONOMICS, 1
+school of mathematics, 1
+Officers College Of CAPF, 1
+Institute of Microelectronics, 1
+Nankai university ,China, 1
+TongJi university, 1
+ZUEL, 1
+School of Electrical Engineering, 1
+School of Engineering,Sun Yat-Sen University, 1
+WuHan University Of Tecnology, 1
+Shenyang Pharmaceutical University, 1
+the city college of jilin jianzhu university, 1
+Taiyuan University, 1
+Inner Mongolia Agricultural University, 1
+University of International Business and Economics of China, 1
+Shanghai Universtiy of Finance and Economics, 1
+Communication University of China, 1
+Shanghai University of Financial & Economics, 1
+Donghua university, 1
+Universith of International Business and Economics, 1
+Southwest University of Finance and Economics, 1
+University of Business and Economics, 1
+Shanghai Jiao Tong Univeresity, 1
+UNIVERSITY OF INTERNATIONAL BUSINESS AND ECONOMICS, 1
+Sichuan Uinversity, 1
+Sun Yat-sen University&Peking University&Peking University, 1
+School of Statistics, 1
+Guangdong University of Finance, 1
+Wheaton College (IL), 1
+Heilongjiang College of Construction, 1
+Ningxia University, 1
+Shiyuan College of Guangxi Teachers Education University, 1
+Zhongnan University Of Economics And Laws, 1
+He'nan Normal University, 1
+Huazhon university of science and technology, 1
+North China ELectric Power University, 1
+University of International and Economics, 1
+Universitiy of International Business and Economics, 1
+University of International Business and Econmics, 1
+IUPUI, 1
+Wu Han University, 1
+Statistic, 1
+shenyangjianzhu university, 1
+University of International and Business Economics, 1
+School of Engineering, Sun Yat-Sen University, 1
+University of International Business&Economics, 1
+SouthWest Jiaotong University, 1
+Math Institution ,Beihang University, 1
+No. 10, Huixin Dongjie, Chaoyang District, Beijing, P.R. China, 1
+School of mathematics and statistics, 1
+PLA Imformation Engineering University, 1
+Xi'an University of architecture and technology, 1
+Officer's college of CAPF, 1
+Qingdao Technical Colleage, 1
+Renmin University Of China, 1
+National Engineering Research Center for Multimedia Software, Wuhan University, 1
+SOUTH WEST JIAOTONG UNIVERSITY, 1
+Shanghai University of Finance and Ecomonics, 1
+tongji university, 1
+University, 1
+Anhui University Of Science & Technology, 1
+SYSU, 1
+university of International Business and Economics, 1
+The University Of International Business Economics, 1
+the University of International Business and Economics, 1
+Shanghai University of Finanace and Economics, 1
+Business School of the University of International Business and Economics, 1
+Heilongjiang Institute of Technology, 1
+Shenyang Aerospace University, 1
+China Pharmaceutical University, 1
+University Of International Business and Economics, 1
+Renmin University, 1
+TianJin university, 1
+University Of Science and Technology Beijing, 1
+School of Mathematical Sciences, Beijing Normal University, 1
+shandong university of science and technology, 1
+The Huazhong University of Science and Technology, 1
+Shanghai University of Finance & Economics, 1
+Jinjiang College of Sichuan University, 1
+shenyang pharmaceutical university, 1
+Sichuan University Jinjiang College, 1
+Huazhong University of Science&Technology, 1
+South China University of China, 1
+Huazhong University Of Science & Technlology, 1
+shanghai Normal University, 1
+Stanford University, 1
+Tianjin University of Technology and Education, 1
+Ocean university of China, 1
+Luoyang Institute of Science and Technology, 1
+Shanghai university of finace and economic, 1
+Iinformantion Engineering, 1
+Changchun architecture &civil engineering college, 1
+Shandong Agricultural University, 1
+Chongqing Normal University, 1
+China University of Geoscience (Wuhan), 1
+LanZhou University of Technology, 1
+Southwestern University of Finance and Economy, 1
+Shenyang Agricultural University, 1
+Shandong Univercity, 1
+Dalian University, 1
+SHANGHAI UNIVERSITY OF FINANCE AND ECONAMICS, 1
+University of Science and Technology of China (USTC), 1
+FUDAN UNIVERSITY, 1
+College of Science, North China University of Technology, 1
+Southwest Jiaotong University Hope College Â , 1
+The school of management, University of Science and Technology of China, 1
+The University of Texas at Dallas, 1
+Milligan College, 1
+Changsha University of Science & Technology, 1
+Berlin School of Economics and Law, 1
+Ordos Collegeï¼ŒInner Mongolia University, 1
+Shenyang Institute of Engineering, 1
+Chung Yuan Christian University, 1
+College of Biochemical Engineering,Beijing Union University, 1
+ShanDong University of Science and Technology4 years, 1
+DaLian JiaoTong University, 1
+People's Public Security University of China, 1
+School of Mathematical and Physical Science, 1
+Woodside Priory School, 1
+Business College of Shanxi University, 1
+Southwestern university of Finance and Economics, 1
+Southwestern University of Finance and Economincs, 1
+Shenyang Agriculture University, 1
+Nanjing university, 1
+Mathematics, 1
+Beihai College of Beihang University, 1
+UCSB, 1
+Loyola University Maryland, 1
+Beijing University of Techonolgy, 1
+Tianjin university of commerce, 1
+College of science, 1
+Shanghai Jiaotong University, China, 1
+Southwestern University of Finance And Economics, 1
+Southwestern University of Finance and Economic, 1
+Southwestern University of Financial and Economics, 1
+Software Engineering, 1
+Shaanxi University of Science & Technology, 1
+Hohai University Wentian College, 1
+Shanghai Univisity, 1
+Shanghai univercity, 1
+Department of Mathematics, 1
+Shanghai Univercity, 1
+TIANJIN UNIVERSITY, 1
+Wuhan Polytechnic University, 1
+shanghai, 1
+Huazhong University of science and technology, 1
+Chong Qing University, 1
+China University of Petrolem(Beijing), 1
+Liaoning Technical University, 1
+Dongbei university of Finance and Economics, 1
+Jiangxi Agricultural University, 1
+Changchun University Of Science and Technology, 1
+YunNan University, 1
+HuNan University, 1
+Foshan University, 1
+zhongnan University of Economics and Law, 1
+Chengdu Technological University, 1
+Peking Univ., 1
+HAINAN UNIVERSITY, 1
+Sun Yat-sen University, Guangzhou, 1
+Wuhan University of technology, 1
+Henan University of Economics and Law, 1
+ShanDong University of Technology, 1
+Shenzhen Institute of Information Technology, 1
+SKH Bishop Mok Sau Tseng Secondary School, 1
+SHANGHAI UNIVERSITY, 1
+Tianjin University, People's Republic of China, 1
+Cupertino High School, 1
+Shanxi University, People's Republic of China, 1
+Taizhou Institute of Sci.&Tech.,NUST, 1
+Hunan University of Humanities,Science and Technology, 1
+Nanjing Normal University Taizhou College, 1
+school of architecture civil engineering, Nantong University, 1
+Qingdao Univrsity, 1
+Shanghai University of Finance & Economics (P R CHINA), 1
+southwest university of science and technology, 1
+Chengdu Shishi Cambridge A-level Center, 1
+Math School, 1
+SICHUAN UNIVERSITY, 1
+The University of Tennessee, Knoxville, 1
+Eastern Oregon University, 1
+SouthwesternÂ UniversityÂ of Finance and Economics, 1
+Software Engineering Institute, East China Normal University, 1
+TianJin University Of Finance And Economics, 1
+NanChang Aeronautical University, 1
+Henan University of Science & Technology, 1
+School of Digital Media and Design Art, 1
+North China Electric poewr university, 1
+South-west Jiaotong University, 1
+South West Jiaotong University, 1
+WENZHOU UNIVERSITY, 1
+Dongguan University of Technology, 1
+Northeaster University (China), 1
+SJTU-ParisTech Elite Institute of Technology, 1
+College of Science and Technology of China Three Gorges University, 1
+University of Science and Technology,Beijing(USTB), 1
+Wuhan Universty, 1
+UNIVERSITY OF SHANGHAI FOR SCIENCE AND TECHNOLOGY, 1
+Shandong University Of Science And Technology, 1
+Jiangsu Jianzhu Institute, 1
+SouthEast University, 1
+LongDong University, 1
+Software Engineering Institute, 1
+Shangdong university, 1
+Information, 1
+NKU School of Mathematical Science, 1
+Institute of Information Technology of Guilin University of Electronic Technology, 1
+Liaoning Technical Universty, 1
+Heilongjiang University of science and technology, 1
+Shanghai University of Finance and Economy, 1
+Department of Economics, Minzu University of China, 1
+University of International Bussiness and Economy,Beijing,China, 1
+Xi'an Shiyou University, 1
+Northeast Yucai Foreign Language School, 1
+Dalian Neusoft University of information, 1
+School of Electronic and Engineering, 1
+NanKai university, 1
+Shandong University Of Technology, 1
+China University of Petroleum(East China), 1
+Southwestern University of Finance and Economics University, 1
+Hu Bei Univeristy of Economics, 1
+Hu Bei University of Economics, 1
+Officer College of Chinese People's Armed Police Force, 1
+Shanxi Agricultural University, 1
+SICHUAN university, 1
+Qufu normal university, 1
+RenMin University of China, 1
+Qiannan Normal College for Nationalities, 1
+China university of Geosciences, 1
+Capital Normal University, 1
+South China Normal Uniyersity, 1
+mathematics, 1
+The Capital University of Economics and Business, 1
+Virginia Western Community College, 1
+Bloomsburg University, 1
+Temple University, 1
+Meredith College, 1
+Central Washington University, 1
+University of St. Thomas, 1
+Xihua University, 1
+The Southwestern University of Finance and Economics, 1
+Hubei University, 1
+Shanxi University of Finance and Economics, 1
+Zhengzhou University Of Light Industry, 1
+Zhengzhou University of Light Institution, 1
+Zhengzhou University of Light Industry, 1
+Wuhan University Of Technology, 1
+Wuhan Univercity, 1
+University of International Business and Ecomomics, 1
+China Univercity of Geosciencesï¼ŒBeijing, 1
+The Chinese University of Hong Kong, 1
+Shanghai University Of Engineering Science, 1
+College of Electronic Information and Optical Engineering, Nankai University, 1
+Georgetown College, 1
+University of Science and Technology of Beijing, 1
+Jiansu Jianzhu University, 1
+Guangxi Teachers Education University, 1
+Hunan University of Commerce, 1
+nankai university, 1
+SOUTHWEST JIAOTONG UNIVERSITY, 1
+Yangzhou University, 1
+121 Zhangjialukou, Huaxiang Fengtai District, Beijing,China, 1
+University of Science & Technology of China, 1
+Xi'an University of Architechture&Technology, 1
+School of Computer Science and Techonology, 1
+Institution of Information Science and Technology, 1
+UniversitÃ© de Technologie de CompiÃ¨gne, 1
+University of Dayton, 1
+Goshen College, 1
+New York Institute of Technology, 1
+University of New Mexico, 1
+U.S. Air Force Academy, 1
+Lamar University, 1
+Erasmus University Rotterdam, 1
+Northwest Missouri State University, 1
+MinZu University of China, 1
+Shanghai U. of Finance and Economics, School of Economics, 1
+University of shanghai for Science&Technology, 1
+TIANJIN POLYTECHNIC UNIVERSITY, 1
+School of information& School of Science, 1
+Institution of Thermal Science and Power Systems, 1
+PekingUniversity(PKU), 1
+Renmin Universuty of China, 1
+FuZhou College of Foreign Studies and Trade, 1
+GuangDong University of Foreign Studies, 1
+Shanghai Kongjiang High School, 1
+The University of Edinburgh, 1
+University of Shanghai for Science & Technology, 1
+GUANGDONG PHARMACEUTICAL UNIVERSITY, 1
+University of Wisconsin-Stevens Point, 1
+Xitucheng 10th Road, Haidian District.Beijing Univ. of Posts and Telecomm. Beijing, Beijing 100876, 1
+Shandong university of finance and economics in China, 1
+Qufu Normal University, 1
+Xiâ€™an University of Architecture and Technology, 1
+Hannan University, 1
+Fujian Agriculture and Forestry University, 1
+Institute of Scientific & Engineering Computing, 1
+Changsha University of Science and Technology, 1
+Wuhan Univ, 1
+Guangdong University Of Finance and Economy, 1
+East China Normal Univeristy, 1
+ZhengzhouÂ University, 1
+Guangdong University of Finance and Econonmics, 1
+X1'an University of Architecture and Technology, 1
+School of Computer Science and Technology, 1
+Huazhong University of Science and technology, 1
+University of North Texas, 1
+University of Michigan, 1
+Binghamton University (SUNY), 1
+Grand View University, 1
+China University of Geosciences Beijing, 1
+Tianjin University,China, 1
+ZhengZhou University, 1
+Xi'an University of Architecture and Techonology, 1
+SOUTH CHINA UNIVERSITY OF TECHNOLOGY, 1
+Institution of Innovation; Northeastern University, 1
+Renming University, 1
+ShuGuang School, 1
+East China University of Science And Technology, 1
+Shandong university of finance and economics, 1
+WuYi University, 1
+NANJING UNIVERSITY, 1
+.Renmin University of China, 1
+Department of Mathematics and Institute of Natural Sciences, 1
+Tarim University, 1
+East china normal University, 1
+Kansas State University, 1
+Communication University of ChinaÂ , 1
+Quanzhou Normal University, 1
+Lehigh University, 1
+Shandong University of Fianace and Economics, 1
+Xi'an Aeromautical Polytechnic Institute, 1
+Shandong University of Science and Technology,, 1
+Hong Kong University of Science and Technology, 1
+Tian Jin University, 1
+Wuhan University,China, 1
+Wuhan Universtity, 1
+Electrical engineering, 1
+School of Mathematical Sciences, Xiamen University, 1
+Tianjin Univ. of Commerce, 1
+American Heritage School Plantation, 1
+The University of Business and Economics, 1
+Univeristy of International Business and Economics, 1
+University of Illinois at Urbana-Champaign, 1
+HEBEI FANANCE UNIVERSITY, 1
+Liaocheng Univ., 1
+University of Science and Technoloy of China, 1
+Zhengzhou university, 1
+School of Science of Tianjin University, 1
+ShiHeZi University, 1
+Harbin Medical University, 1
+CentralÂ ChinaÂ NormalÂ University, 1
+Shanghai University for Science and Technology, 1
+SHANDONG UNIVERSITY, 1
+Xuhai college of China University of Mining and Technology, 1
+Xiamen University,China, 1
+Xiâ€™an University Of Architecture and Technology, 1
+Inner Mongolia University of technology, 1
+Taizhou Ploytechnic College, 1
+Teacher, 1
+Jinling High School, 1
+South-Center University For Nationalities, 1
+Physics School of Nankai University, 1
+City College, Wuhan University of Science and Technology, 1
+Southwestern University of Finance and economics, 1
+mathematics and systems science institute, 1
+TongJi University, 1
+minzu univercity of China, 1
+the Central University of Finance and Economics, 1
+University of Delaware, 1
+Kunming University, 1
+University of Richmond, 1
+Rose-Hulman Institute of Technology, 1
+Quantitative Economics Research Institute of Nankai University, 1
+Minzu Univercity of China, 1
+University at Buffalo (SUNY), 1
+Roger Williams University, 1
+University of Nebraska-Lincoln, 1
+California State University, Fullerton, 1
+Bryn Athyn College, 1
+South Dakota School of Mines & Technology, 1
+University of Minnesota - Twin Cities, 1
+Ulster University, 1
+University of Wisconsin--River Falls, 1
+Dalhousie University, 1
+East China Normal University(China), 1
+Huaiyin Normal University, 1
+University Of Shanghai For Science and Technology, 1
+Luoyang Normal University, 1
+Fudan Univerity, 1
+Undergraduate, 1
+Xi'an university of architecture & technology, 1
+Officers College of CAPF, 1
+Nanjing Foreign Language School, 1
+Telkom University, 1
+Hainu University, 1
+Ocean Univercity of China, 1
+Guangdong University Of foreign Studies, 1
+Xi'an University Of Architecture and Technology, 1
+University of Jinan, 1
+Wuhan Univ., 1
+Linyi Number 7 middle school, 1
+undergraduate, 1
+Linnaeus University, 1
+minzu univercity of china, 1
+Ohio University, 1
+Miami University, 1
+Maryville College, 1
+University of Liverpool, 1
+Smith College, 1
+University of Denver, 1
+Ithaca College, 1
+Olin College, 1
+Kansas Wesleyan University, 1
+Randolph College, 1
+Regis University, 1
+Metropolitan State University of Denver, 1
+Cornell College, 1
+Georgia College, 1
+The College of Wooster, 1
+Snake River HS, 1
+Kenyon College, 1
+Research Institution for computational science and Engineering, 1
+Shandong university of science and technology, 1
+Syracuse University, 1
+Tianjin university, 1
+Qingdao Agricultural Universiry, 1
+School of Information, 1
+ISS of Wuhan University, 1
+Bejing University of Chemical Technology, 1
+Shanghai university, 1
+Northeast Normal University, 1
+Jinhua Polytechnic, 1
+NANTONG UNIVERSITY, 1
+Hong Kong Baptist University, 1
+chongqing university of posts and telecommunications, 1
+University of International Business and Economics, School of Finance, 1
+ZHEJIANG UNIVERSITY, 1
+the Capital Normal University, 1
+Nottingham Trent University, 1
+shenzhen unviersity, 1
+Southwest jiaotong University, 1
+Maggie Walker Governors School, 1
+University of Science And Techology Of China, 1
+Scuola Monotecnica Superiore Dongemenese, 1
+Brown University, 1
+Carnegie Mellon University, 1
+Tufts University, 1
+Minnesota State University Moorhead, 1
+Sewanee: the University of the South, 1
+Amherst College, 1
+University of West Georgia, 1
+Midlands Technical College, 1
+University of Texas at Austin, 1
+Eastern Michigan University, 1
+Georgia Southern University, 1
+Dalton State College, 1
+Southern Connecticut State University, 1
+Southeastern Oklahoma State University, 1
+Anhui University of Technology, 1
+Nanchang Institute of Technology, 1
+Xi'an University of Finance & Economics, 1
+Liaoning Normal University, 1
+Southwest petroleum university, 1
+Colorado State University, 1
+Wuxi Big Bridge Academy, 1
+Xiâ€™an University of Finance & Economics, 1
+XI'AN UNIVERSITY OF FINANCE AND ECONOMICS, 1
+Wuhan Uniersity, 1
+Hefei Normal University, 1
+University of Sci&Tech of China, 1
+International Institute of Information Technology, Hyderabad, 1
+University of Helsinki, 1
+Shandong Experimental High School, 1
+College of Mobile Telecommunications. Chongqing University of Posts and Telecom., 1
+Maths, 1
+Northwestern Polytechnical University, P.R.CHINA, 1
+University of Maryland, 1
+University of Minnesota, Twin Cities, 1
+Missouri Southern State University, 1
+Penn State Abington, 1
+The Pennsylvania State University, 1
+Purdue University, 1
+University of Wisconsin - La Crosse, 1
+Georgetown University, 1
+Salisbury University, 1
+Morehead State University, 1
+University of Oklahoma, 1
+Sonoma State University, 1
+
+
+Institutions whose teams received a ranking of Outstanding:
+
+Bethel University
+Central South University
+Chongqing University
+Colorado College
+Humboldt State University
+National University of defense technology
+NC School of Science and Mathematics
+Northwestern Polytechnical University
+Shanghai Jiao Tong University
+State University of New York, University at Buffalo
+Tsinghua University
+University of Adelaide
+University of Colorado Boulder
+Xi'an Jiaotong University
+XIDIAN UNIVERSITY
+Zhejiang University
+
+
+US Institutions whose teams received a ranking of Meritorious or higher:
+
+Franklin & Marshall College, MERITORIOUS
+IUPUI, MERITORIOUS
+University of Colorado Boulder, MERITORIOUS
+University of Minnesota, MERITORIOUS
+NC School of Science and Mathematics, MERITORIOUS
+Cornell University, MERITORIOUS
+Colgate University, MERITORIOUS
+Cupertino High School, MERITORIOUS
+Madonna University, MERITORIOUS
+Columbia University, MERITORIOUS
+University of California, Los Angeles, MERITORIOUS
+Hendrix College, MERITORIOUS
+Rensselaer Polytechnic Institute, MERITORIOUS
+Union College, MERITORIOUS
+New York Institute of Technology, MERITORIOUS
+University of New Mexico, MERITORIOUS
+Illinois Institute of Technology, MERITORIOUS
+Humboldt State University, MERITORIOUS
+University of Wisconsin-Madison, MERITORIOUS
+University of Wisconsin - La Crosse, MERITORIOUS
+Trinity, MERITORIOUS
+Winthrop University, MERITORIOUS
+American Heritage School Plantation, MERITORIOUS
+University at Buffalo (SUNY), MERITORIOUS
+Davidson College, MERITORIOUS
+Harvey Mudd College, MERITORIOUS
+Seattle Pacific University, MERITORIOUS
+California Polytechnic State University, MERITORIOUS
+University of Washington, MERITORIOUS
+Mount St. Mary's University, MERITORIOUS
+Virginia Tech, MERITORIOUS
+Simpson College, MERITORIOUS
+Duke University, MERITORIOUS
+Olin College, MERITORIOUS
+College of Wooster, MERITORIOUS
+Youngstown State University, MERITORIOUS
+New York University, MERITORIOUS
+University of Kentucky, MERITORIOUS
+Carroll College, MERITORIOUS
+University of Texas at Austin, MERITORIOUS
+University of Colorado Denver, FINALIST
+Harvey Mudd College, FINALIST
+Rensselaer Polytechnic Institute, FINALIST
+University of Colorado Boulder, OUTSTANDING
+NC School of Science and Mathematics, OUTSTANDING
+Bethel University, OUTSTANDING
+Humboldt State University, OUTSTANDING
+Colorado College, OUTSTANDING
+State University of New York, University at Buffalo, OUTSTANDING
